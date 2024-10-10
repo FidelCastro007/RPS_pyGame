@@ -1,0 +1,10 @@
+pip list  
+.\.ggmWeatherApp\Scripts\Activate
+py -m pip freeze > requirements.txt
+ py -m pip show requests  
+  py -m pip install -U pip 
+   py -m venv .ggmWeatherApp  
+   deactivate 
+ python.exe -m pip install --upgrade pip
+ py -m pip uninstall requests
+ 
